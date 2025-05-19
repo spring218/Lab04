@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Movie" parent="Theme.Leanback">
+        <item name="android:windowEnterTransition">@android:transition/fade</item>
+        <item name="android:windowExitTransition">@android:transition/fade</item>
+        <item name="android:windowBackground">@color/background_gradient_start</item>
+        <item name="defaultBrandColor">@color/fastlane_background</item>
+        <item name="defaultSearchColor">@color/search_opaque</item>
+    </style>
+</resources>

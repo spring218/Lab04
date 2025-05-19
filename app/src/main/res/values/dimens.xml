@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_item_width">200dp</dimen>
+    <dimen name="grid_item_height">200dp</dimen>
+    <dimen name="detail_thumbnail_width">274dp</dimen>
+    <dimen name="detail_thumbnail_height">274dp</dimen>
+    <dimen name="playback_controls_padding">16dp</dimen>
+    <dimen name="card_width">313dp</dimen>
+    <dimen name="card_height">176dp</dimen>
+</resources>

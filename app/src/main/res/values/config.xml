@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    <!-- TMDB API key -->
+    <string name="tmdb_api_key">7b801655fdcc64722f1cf554691a2f0f</string>
+</resources>
